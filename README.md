@@ -1,13 +1,12 @@
-## Hi there 👋 I am Muhammadjon and I am:
+## Hi 👋 I am Rahim and I am:
 
-- :computer: currently doing an internship as a **Go Backend Developer** at [@yandex](https://github.com/yandex)
-- :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/) and [Computer Science Center](https://compscicenter.ru/)
-- :grin: learning **GoLang** and **Kotlin**
-- :page_with_curl: running [channel](https://t.me/foogler) about tech on Telegram
-- :heart_eyes: fascinated about concurrent programming
+- :computer: currently I am working on my Android app.
+- :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/)
+- :grin: learning **Java** and **Kotlin**
+- :page_with_curl: running [channel](https://t.me/) about my projects on Telegram
 
 <!--
-**MrHakimov/MrHakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RahimHakimov/RahimHakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
