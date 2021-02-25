@@ -2,7 +2,7 @@
 
 - :computer: currently I am working on my Android app.
 - :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/)
-- :grin: learning **Java** and **Kotlin**
+- :grin: learning **Java** and **Python**
 - :page_with_curl: running [channel](https://t.me/RahimProjects) about my projects on Telegram
 
 <!--
