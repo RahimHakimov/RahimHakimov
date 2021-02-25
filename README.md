@@ -3,7 +3,7 @@
 - :computer: currently I am working on my Android app.
 - :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/)
 - :grin: learning **Java** and **Kotlin**
-- :page_with_curl: running [channel](https://t.me/) about my projects on Telegram
+- :page_with_curl: running [channel](https://t.me/RahimProjects) about my projects on Telegram
 
 <!--
 **RahimHakimov/RahimHakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
